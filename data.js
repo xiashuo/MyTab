@@ -3,8 +3,8 @@ var Config = getMStr(function(){
     var sites;
 /*
 常用
-	博客工具集，http://www.xsblog.club/article/%E5%B7%A5%E5%85%B7，img/logo.jpg
-	达内直播，http://www.tmooc.cn/，img/达内.png
+	公司ERP系统，http://erp.kqgeo.com:809/cops/home/index.jsp?11921，img/公司erp.png
+	gitee码云，http://gitee.com/，img/gitee.png
 	牛客网，https://www.nowcoder.com/5794335，img/牛客网.jfif
 	GitHub，https://github.com/，img/GitHub.jfif
 	我的博客，http://xiashuobad.xyz，img/logo.jpg
