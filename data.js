@@ -7,8 +7,8 @@ var Config = getMStr(function(){
 	gitee码云，http://gitee.com/，img/gitee.png
 	牛客网，https://www.nowcoder.com/5794335，img/牛客网.jfif
 	GitHub，https://github.com/，img/GitHub.jfif
-	我的博客，http://xiashuobad.xyz，img/logo.jpg
-	markdown编辑，https://maxiang.io/，img/马克飞象.jpg
+	我的博客，http://xiashuobad.gitee.io/myblog，img/logo.jpg
+	常用.txt, http://xiashuobad.gitee.io/mytab/常用.txt, img/logo.jpg
 	
 资源下载
 	ZD423下载，http://www.zdfans.com/，img/微档下载.png
@@ -19,19 +19,14 @@ var Config = getMStr(function(){
 	Tshared,http://bais.com.cn/，img/logo.jpg
 	
 在线视频
-	365视频，https://www.k365.tv/，img/365影视.png
 	疯狂影视，http://ifkdy.com/，img/logo.jpg
-	碟影视界，https://dvdhd.me/，img/碟影.png
-	完美看看，https://www.wanmeikk.me/，img/logo.jpg
-	草民电影，https://www.cmdy5.com/，img/logo.jpg
-
+	
 bt资源
-	bt之家，https://www.btbtt.co/，img/logo.jpg
 	磁力熊，https://www.cilixiong.com/，img/bt熊.png
-	bt首发，http://btshoufa.cc/，img/logo.jpg
 	比特大熊，https://www.btdx8.com/，img/logo.jpg
-	bt电影天堂，http://www.btbtdy.me/，img/logo.jpg
-	磁力狗，http://gg.6z05.xyz/,img/logo.jpg
+	资源导航，https://iao.su/909/, img/logo.jpg
+	bt蛋蛋，https://www.btdandan555.com/， img/logo.jpg
+	838888, https://www.868888.net/, img/logo.jpg
 
 阅读
 	知乎，https://www.zhihu.com/，img/知乎.png
