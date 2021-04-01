@@ -8,7 +8,7 @@ var Config = getMStr(function(){
 	牛客网，https://www.nowcoder.com/5794335，img/牛客网.jfif
 	GitHub，https://github.com/，img/GitHub.jfif
 	我的博客，http://xiashuobad.gitee.io/myblog，img/logo.jpg
-	常用.txt, http://xiashuobad.gitee.io/mytab/常用.txt, img/logo.jpg
+	常用.txt, http://xiashuobad.gitee.io/mytab/memo.txt, img/logo.jpg
 	
 资源下载
 	ZD423下载，http://www.zdfans.com/，img/微档下载.png
