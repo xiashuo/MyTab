@@ -89,6 +89,29 @@ git@github.com:KeVincechen/KQ_Kuangshan.git
 ## docker 运行容器命令
 docker run --rm -it --runtime=nvidia -e NVIDIA_VISIBLE_DEVICES=all beijing:test bash
 
+## 向日葵地址
+
+**公司电脑：**
+
+- 识别码：273977291
+- 验证码：GfDF8G
+
+**公司服务器：**
+
+- 识别码：377 128 479
+- 验证码：129kc6
+
+### 上海服务器地址
+
+远程网关地址：220.248.49.130
+
+端口：4433
+
+账号：lz14
+密码：Huawei@123
+
+
+
 
 
 
