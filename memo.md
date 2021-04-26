@@ -80,7 +80,15 @@ Lyl123...
 ********************************************
 
 ## nuitka打包exe命令
-nuitka --standalone --mingw64 --nofollow-imports --follow-import-to=mask2render2merge_ui --plugin-enable=qt-plugins --windows-disable-console --show-progress --show-scons --output-dir=output
+nuitka --standalone --mingw64 --nofollow-imports --follow-import-to=childwindows,color_list,detection,detection_gray  --show-progress --show-scons --output-dir=output_exe
+
+--windows-disable-console
+
+--plugin-enable=qt-plugins
+
+### pyinstaller打包exe命令
+
+pyinstaller KQRS-AI.py --hidden-import PySide2.QtXml
 
 ## 公用github仓库
 https://github.com/KeVincechen/KQ_Kuangshan.git
