@@ -5,7 +5,7 @@ var Config = getMStr(function(){
 常用
 	公司ERP系统，http://erp.kqgeo.com:809/cops/home/index.jsp?11921，img/公司erp.png
 	gitee码云，http://gitee.com/，img/gitee.png
-	牛客网，https://www.nowcoder.com/5794335，img/牛客网.jfif
+	CSDN，https://ask.csdn.net/，img/logo.jpg
 	GitHub，https://github.com/，img/GitHub.jfif
 	我的博客，http://xiashuobad.gitee.io/myblog，img/logo.jpg
 	备忘录, http://xiashuobad.gitee.io/mytab/memo.html, img/logo.jpg
