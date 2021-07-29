@@ -7,7 +7,7 @@ var Config = getMStr(function(){
 	gitee码云，http://gitee.com/，img/gitee.png
 	CSDN，https://ask.csdn.net/，img/logo.jpg
 	GitHub，https://github.com/，img/GitHub.jfif
-	我的博客，http://xiashuobad.gitee.io/myblog，img/logo.jpg
+	我的博客，https://xiashuo.github.io/myblog，img/logo.jpg
 	备忘录, http://xiashuobad.gitee.io/mytab/memo.html, img/logo.jpg
 	
 资源下载
