@@ -99,6 +99,11 @@ docker run --rm -it --runtime=nvidia -e NVIDIA_VISIBLE_DEVICES=all beijing:test 
 - 识别码：377 128 479
 - 验证码：129kc6
 
+**公司UOS系统：**
+
+- 识别码：215403864
+- 验证码：6666
+
 ## 上海服务器地址
 
 远程网关地址：220.248.49.130
