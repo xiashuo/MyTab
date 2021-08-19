@@ -8,7 +8,7 @@ var Config = getMStr(function(){
 	CSDN，https://ask.csdn.net/，img/logo.jpg
 	GitHub，https://github.com/，img/GitHub.jfif
 	我的博客，https://xiashuo.github.io/myblog，img/logo.jpg
-	备忘录, http://xiashuobad.gitee.io/mytab/memo.html, img/logo.jpg
+	备忘录, https://xiashuo.github.io/mytab/memo.html, img/logo.jpg
 	
 资源下载
 	ZD423下载，http://www.zdfans.com/，img/微档下载.png
