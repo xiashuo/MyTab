@@ -66,4 +66,4 @@ CUDA_VISIBLE_DEVICES="1,2" mpirun -np 2 python -m jittor.test.test_resnet
 
 ## ssh连接远程映射本地
 
-ssh -L 16006:127.0.0.1:6006 kqgis@172.16.1.149
+ssh -L 16006:127.0.0.1:6006 kqgis@172.16.3.149
