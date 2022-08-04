@@ -67,3 +67,10 @@ CUDA_VISIBLE_DEVICES="1,2" mpirun -np 2 python -m jittor.test.test_resnet
 ## ssh连接远程映射本地
 
 ssh -L 16006:127.0.0.1:6006 kqgis@172.16.3.149
+
+
+
+```
+docker run -it --rm -v ‪F:/分割/sandiao/测试/道路/images/test1.tif registry.cn-hangzhou.aliyuncs.com/xiashuobad/rs-ai:0.4
+```
+
