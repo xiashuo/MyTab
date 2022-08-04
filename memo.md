@@ -1,4 +1,7 @@
+dog: DFEYEuUdmAeTHTEis8mNgoLFW8cUBCUS5m
+
 ## nuitka打包exe命令
+
 ```shell
 nuitka --standalone --mingw64 --nofollow-imports --follow-import to=childwindows,color_list,detection,detection_gray  --show-progress --show-scons --output-dir=output_exe --windows-disable-console --plugin-enable=qt-plugins
 ```
